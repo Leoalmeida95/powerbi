@@ -3,7 +3,6 @@ Criação de APLICATIVO
 e podem ser atualizados normalmente caso os arquivos sejam atualizados.
 - Dentro do Aplicativo é possível a criação de DASHBOARD que unem gráficos ou informações de paineis distintos em um mesmo lugar, caso queira exibir alguma
 informação de forma diferente.
-- Também é possível no DASHBOARD, a utilização da linguagem P e R, através da qual é possível criar novos gráficos.
 
 Publicação
 - Caso seja necessário, é possível editar grande parte dos conteúdos do BI direto no service e posteriormente baixar o .pbix
@@ -17,4 +16,8 @@ Arquivo GIF
 
 Aplicativos externos
 - É possível adicionar aplicativos externos no BI Service, como por exemplo o Github, e ter dados e metricas de um repositorio.
+
+Linguagens dentro do Power BI
+- No DASHBOARD é possível a utilização da linguagem P e R, através da qual é possível criar novos gráficos.
+- Para ETL (tratamento de daos) e para Analise de dados, temos as linguagens M e DAX.
 
