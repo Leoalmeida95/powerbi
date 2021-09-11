@@ -19,5 +19,10 @@ Aplicativos externos
 
 Linguagens dentro do Power BI
 - No DASHBOARD é possível a utilização da linguagem P e R, através da qual é possível criar novos gráficos.
-- Para ETL (tratamento de daos) e para Analise de dados, temos as linguagens M e DAX.
+- Para ETL (tratamento de dados) e para Analise de dados, temos as linguagens M e DAX.
 
+Data Warehouse
+- (ETL) Sigla derivada de Extract, Transform and Load, é o processo de captura das fontes de dados a serem utilizadas em um ambiente BI, sua transformação, padronização e posterior carga no DW (ou DM ou ODS).
+- (ODS) De acordo com Inmon, ODS é uma base de dados integrada, volátil, de valores correntes, e que contém somente dados detalhados. Também pode ser entendido como uma visão integrada do mundo operacional. Normalmente sua construção adota bases de dados relacionais.
+- (OLAP) Advindo da expressão On-Line Analytical Processing, Kimball define como a atividade de consulta e apresentação de dados textuais e numéricos em um DW. É a atividade de análise dos dados do ambiente de BI para a extração de siginificado. Esse significado é a base para o processo de tomada de decisão.
+- O caminho perfeito para a apresentação do dado seria: Dado inicial -> ETL -> ODS -> OLAP -> BI
