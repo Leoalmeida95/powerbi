@@ -3,5 +3,5 @@ Formação Power BI Alura
 
 https://cursos.alura.com.br/formacao-power-bi
 
-## Módulo 1
-Análise de Dados
+## Foramação Power BI
+Análise de Dados, Conceitos, ETL e DAX

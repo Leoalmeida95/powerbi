@@ -4,6 +4,10 @@ e podem ser atualizados normalmente caso os arquivos sejam atualizados.
 - Dentro do Aplicativo é possível a criação de DASHBOARD que unem gráficos ou informações de paineis distintos em um mesmo lugar, caso queira exibir alguma
 informação de forma diferente.
 
+Loja de Extensões BI
+- https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals
+- Nesse link é possível encontrar vários tipos de gráficos diferentes para o BI
+
 Publicação
 - Caso seja necessário, é possível editar grande parte dos conteúdos do BI direto no service e posteriormente baixar o .pbix
 
