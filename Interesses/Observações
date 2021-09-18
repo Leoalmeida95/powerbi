@@ -31,6 +31,9 @@ DAX
 - SUMX: Permite fazer a soma do resultado de uma expressão
 - ALL: Filtro de seleção sobre as linhas
 - RANKX: Cria um rank de dados a partir de uma função
+- TOPN: Limita os elementos selecionados dentro de uma soma
+- CALCULATE: Aplica uma operação matemática sobre um filtro
+- MAXX: Auxilia no cálculo do número de ocorrências da entidade que está sendo ordenada
 
 Data Warehouse
 - (ETL) Sigla derivada de Extract, Transform and Load, é o processo de captura das fontes de dados a serem utilizadas em um ambiente BI, sua transformação, padronização e posterior carga no DW (ou DM ou ODS).
