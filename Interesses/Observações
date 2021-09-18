@@ -25,6 +25,13 @@ Linguagens dentro do Power BI
 - No DASHBOARD é possível a utilização da linguagem P e R, através da qual é possível criar novos gráficos.
 - Para ETL (tratamento de dados) e para Analise de dados, temos as linguagens M e DAX.
 
+
+DAX
+- DIVIDE: Calcula porcentagem em cima de 2 valores
+- SUMX: Permite fazer a soma do resultado de uma expressão
+- ALL: Filtro de seleção sobre as linhas
+- RANKX: Cria um rank de dados a partir de uma função
+
 Data Warehouse
 - (ETL) Sigla derivada de Extract, Transform and Load, é o processo de captura das fontes de dados a serem utilizadas em um ambiente BI, sua transformação, padronização e posterior carga no DW (ou DM ou ODS).
 - (ODS) De acordo com Inmon, ODS é uma base de dados integrada, volátil, de valores correntes, e que contém somente dados detalhados. Também pode ser entendido como uma visão integrada do mundo operacional. Normalmente sua construção adota bases de dados relacionais.
