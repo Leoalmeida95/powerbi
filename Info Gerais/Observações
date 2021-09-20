@@ -23,8 +23,7 @@ Aplicativos externos
 
 Linguagens dentro do Power BI
 - No DASHBOARD é possível a utilização da linguagem P e R, através da qual é possível criar novos gráficos.
-- Para ETL (tratamento de dados) e para Analise de dados, temos as linguagens M e DAX.
-
+- Para ETL (tratamento de dados) e para Analise de dados, temos as linguagens M (São as etapas da transformação de dados) e DAX.
 
 DAX
 - DIVIDE: Calcula porcentagem em cima de 2 valores
