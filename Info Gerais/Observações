@@ -18,6 +18,10 @@ imagem é pintada de uma forma.
 Arquivo GIF
 - É possível utilizar imagens .gif dentro dos painéis.
 
+TEMA
+- É possível definir um tema (na aba de exibição) para o BI, determinando assim um padrão de cores para todo o layout do arquivo. Pode ser um tema pré-definido, escolhido
+na galeria ou importar um tema próprio por json.
+
 Aplicativos externos
 - É possível adicionar aplicativos externos no BI Service, como por exemplo o Github, e ter dados e metricas de um repositorio.
 
