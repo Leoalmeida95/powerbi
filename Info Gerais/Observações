@@ -43,3 +43,6 @@ Data Warehouse
 - (ODS) De acordo com Inmon, ODS é uma base de dados integrada, volátil, de valores correntes, e que contém somente dados detalhados. Também pode ser entendido como uma visão integrada do mundo operacional. Normalmente sua construção adota bases de dados relacionais.
 - (OLAP) Advindo da expressão On-Line Analytical Processing, Kimball define como a atividade de consulta e apresentação de dados textuais e numéricos em um DW. É a atividade de análise dos dados do ambiente de BI para a extração de siginificado. Esse significado é a base para o processo de tomada de decisão.
 - O caminho perfeito para a apresentação do dado seria: Dado inicial -> ETL -> ODS -> OLAP -> BI
+
+Conta
+leonardo@businesstudent.onmicrosoft.com
