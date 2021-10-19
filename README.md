@@ -19,3 +19,6 @@ https://cursos.alura.com.br/course/power-bi-formulas-dax
 
 ## Explorando recursos visuais
 https://cursos.alura.com.br/course/power-bi-explorando-recursos-visuais/task/92275
+
+## Report Analysis: Gerando relatórios empresariais
+https://cursos.alura.com.br/course/business-intelligence-power-bi
